@@ -1,5 +1,5 @@
 <template>
-    <object data="svgs/olanlokuncv.pdf" class="h-screen overflow-y-visible w-full" ></object>
+    <object data="/svgs/olanlokuncv.pdf" class="h-screen overflow-y-visible w-full" ></object>
 </template>
 
 <script>

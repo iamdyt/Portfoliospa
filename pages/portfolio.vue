@@ -10,7 +10,7 @@
 
           <div class="w-full">
             <div class="bg-white border-t-8 rounded-lg border-blue-700 lg:ml-16">
-              <img src="svgs/author.jpg" class="object-contain mb-4" alt="">
+              <img src="/svgs/author.jpg" class="object-contain mb-4" alt="">
               <span class="lg:ml-8 ml-16 "><a href="https://github.com/iamdyt"><i class="fab fa-github text-3xl text-gray-900" aria-hidden="true"></i></a></span>
               <span class="ml-8"><a href="https://twitter.com/iamdytz"><i class="fab fa-twitter text-3xl text-gray-900" aria-hidden="true"></i></a></span>
             </div>
@@ -25,7 +25,7 @@
           <!-- first project -->
           <div class="lg:w-1/2 mb-4">  
           <div class=" bg-white pulse shadow-lg w-full p-4 ">
-            <img src="svgs/EagleExchange.jpg" class="object-contain" alt="">
+            <img src="/svgs/EagleExchange.jpg" class="object-contain" alt="">
             <p class="lg:text-lg text-justify "> A landing Page for Eaglexchange Digital and Cryptocurrency trading platform, responsive, mobile-ready and intuitive.</p>
             <span class="rounded-full bg-gray-900 px-4 py-1 text-white uppercase"><a href="http://www.eaglexchange.com.ng">visit&RightArrow;</a></span>
           </div>
@@ -33,7 +33,7 @@
           <!-- second project -->
           <div class="lg:w-1/2 ml-4 ">
             <div class=" bg-white shadow-lg w-full p-4 ">
-              <img src="svgs/Magazine.jpg" class="object-contain" alt="">
+              <img src="/svgs/Magazine.jpg" class="object-contain" alt="">
               <p class="lg:text-lg text-justify "> The Young Scholar Educational Magazine web portal. </p>
               <span class="rounded-full bg-gray-900 px-4 py-1 text-white uppercase"><a href="">visit&RightArrow;</a></span>
             </div>
@@ -44,7 +44,7 @@
           <!-- third project -->
           <div class="lg:w-1/2 mb-4">  
           <div class=" bg-white shadow-lg w-full p-4 ">
-            <img src="svgs/Lassa Fever Expert System.jpg" class="object-contain" alt="">
+            <img src="/svgs/Lassa Fever Expert System.jpg" class="object-contain" alt="">
             <p class="lg:text-lg text-justify "> An expert system for lassa fever, it features diagnosis, medication and advice.</p>
             <span class="rounded-full bg-gray-900 px-4 py-1 text-white uppercase"><a href="https://github.com/iamdyt/esgs">visit&RightArrow;</a></span>
           </div>
@@ -52,7 +52,7 @@
           <!-- second project -->
           <div class="lg:w-1/2 ml-4 ">
             <div class=" bg-white shadow-lg w-full p-4 ">
-              <img src="svgs/SCMS.jpg" class="object-contain" alt="">
+              <img src="/svgs/SCMS.jpg" class="object-contain" alt="">
               <p class="lg:text-lg text-justify "> Student Complaint Management System, a platform for students of higher institutions to lodge relevant complaints to the appropriate departments. </p>
               <span class="rounded-full bg-gray-900 px-4 py-1 text-white uppercase"><a href="https://github.com/iamdyt/SCMS">visit&RightArrow;</a></span>
             </div>
@@ -65,7 +65,7 @@
           <!-- third project -->
           <div class="lg:w-1/2 mb-4">  
           <div class=" bg-white shadow-lg w-full p-4 ">
-            <img src="svgs/coinconverter.jpg" class="object-contain" alt="">
+            <img src="/svgs/coinconverter.jpg" class="object-contain" alt="">
             <p class="lg:text-lg text-justify "> A VueJs Powered App to convert digital currencies and tokens to NG FIAT.</p>
             <span class="rounded-full bg-gray-900 px-4 py-1 text-white uppercase"><a href="https://coinverta.herokuapp.com">visit&RightArrow;</a></span>
           </div>
@@ -87,7 +87,7 @@
 export default {
     head(){
         return{
-            'title':'iamdyt/portfolio'
+            'title':'iamdyt/Portfolio'
         }
     }
 }
