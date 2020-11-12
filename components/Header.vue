@@ -1,12 +1,12 @@
 <template>
   <div class="">
     <header class="container mx-auto px-4 lg:px-32 flex mt-8 flex-wrap justify-between">
-      <div class="text-center w-full lg:w-1/2 "><a href="/" class="font-bold uppercase text-3xl text-teal-900">Lanre Olanlokun</a></div>
+      <div class="text-center w-full lg:w-1/2 "><nuxt-link to="/" class="font-bold uppercase text-3xl text-teal-900">Lanre Olanlokun</nuxt-link></div>
         <div class="mx-auto text-blue-700">
           <nav class="mt-4">
-            <a href="/resume">RÉSUMÉ </a>
-            <a href="/portfolio">&nbsp;PORTFOLIO&nbsp;</a>
-            <a href="/contact">CONTACT</a>
+            <nuxt-link to="/resume">RÉSUMÉ </nuxt-link>
+            <nuxt-link to="/portfolio">&nbsp;PORTFOLIO&nbsp;</nuxt-link>
+            <nuxt-link to="/contact">CONTACT</nuxt-link>
           </nav>
       </div>
       

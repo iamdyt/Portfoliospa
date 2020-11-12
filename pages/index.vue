@@ -13,7 +13,7 @@
 
       <div class="mt-8 ">
         <div><p class="text-xl lg:text-2xl"><i class="fa text-green-700 fa-check-circle"></i>&nbsp; ...and a front-end developer</p></div>
-        <p class="ml-20">HTML, JavaScript, and CSS(BOOTSTRAP, MATERIALIZE,TAILWIND)</p>
+        <p class="ml-20">HTML, JavaScript,Wordpress and CSS(BOOTSTRAP, MATERIALIZE,TAILWIND)</p>
       </div>
       
 

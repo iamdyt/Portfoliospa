@@ -28,6 +28,7 @@
             <img src="/svgs/EagleExchange.jpg" class="object-contain" alt="">
             <p class="lg:text-lg text-justify "> A landing Page for Eaglexchange Digital and Cryptocurrency trading platform, responsive, mobile-ready and intuitive.</p>
             <span class="rounded-full bg-gray-900 px-4 py-1 text-white uppercase"><a href="http://www.eaglexchange.com.ng">visit&RightArrow;</a></span>
+            <span class="rounded-full bg-green-900 px-4 py-1 text-white uppercase">Completed</span>
           </div>
           </div>
           <!-- second project -->
@@ -36,6 +37,7 @@
               <img src="/svgs/Magazine.jpg" class="object-contain" alt="">
               <p class="lg:text-lg text-justify "> The Young Scholar Educational Magazine web portal. </p>
               <span class="rounded-full bg-gray-900 px-4 py-1 text-white uppercase"><a href="">visit&RightArrow;</a></span>
+              <span class="rounded-full bg-green-900 px-4 py-1 text-white uppercase">Completed</span>
             </div>
           </div>
         </div>
@@ -46,7 +48,8 @@
           <div class=" bg-white shadow-lg w-full p-4 ">
             <img src="/svgs/Lassa Fever Expert System.jpg" class="object-contain" alt="">
             <p class="lg:text-lg text-justify "> An expert system for lassa fever, it features diagnosis, medication and advice.</p>
-            <span class="rounded-full bg-gray-900 px-4 py-1 text-white uppercase"><a href="https://github.com/iamdyt/esgs">visit&RightArrow;</a></span>
+            <span class="rounded-full bg-gray-900 px-4 py-1 text-white uppercase"><a href="http://expertsys.herokuapp.com/">visit&RightArrow;</a></span>
+            <span class="rounded-full bg-green-900 px-4 py-1 text-white uppercase">Completed</span>
           </div>
           </div>
           <!-- second project -->
@@ -55,6 +58,7 @@
               <img src="/svgs/SCMS.jpg" class="object-contain" alt="">
               <p class="lg:text-lg text-justify "> Student Complaint Management System, a platform for students of higher institutions to lodge relevant complaints to the appropriate departments. </p>
               <span class="rounded-full bg-gray-900 px-4 py-1 text-white uppercase"><a href="https://github.com/iamdyt/SCMS">visit&RightArrow;</a></span>
+              <span class="rounded-full bg-green-900 px-4 py-1 text-white uppercase">Completed</span>
             </div>
           </div>
 
@@ -68,16 +72,64 @@
             <img src="/svgs/coinconverter.jpg" class="object-contain" alt="">
             <p class="lg:text-lg text-justify "> A VueJs Powered App to convert digital currencies and tokens to NG FIAT.</p>
             <span class="rounded-full bg-gray-900 px-4 py-1 text-white uppercase"><a href="https://coinverta.herokuapp.com">visit&RightArrow;</a></span>
+            <span class="rounded-full bg-green-900 px-4 py-1 text-white uppercase">Completed</span>
           </div>
           </div>
           <!-- second project -->
-          <!-- <div class="lg:w-1/2 ml-4 ">
+          <div class="lg:w-1/2 ml-4 ">
             <div class=" bg-white shadow-lg w-full p-4 ">
-              <img src="svgs/SCMS.jpg" class="object-contain" alt="">
-              <p class="lg:text-lg text-justify "> Student Complaint Management System, a platform for students of higher institutions to lodge relevant complaints to the appropriate departments. </p>
-              <span class="rounded-full bg-gray-900 px-4 py-1 text-white uppercase"><a href="https://github.com/iamdyt/SCMS">visit&RightArrow;</a></span>
+              <img src="/svgs/polyede.png" class="object-contain" alt="">
+              <p class="lg:text-lg text-justify "> Federal Polytechnic Ede, Redevelopment of Institution Portal using TETFUND Specifications </p>
+              <span class="rounded-full bg-gray-900 px-4 py-1 text-white uppercase"><a href="http://polyede.fonegraph.tk">visit&RightArrow;</a></span>
+              <span class="rounded-full bg-red-900 px-4 py-1 text-white uppercase">Work in Progress</span>
             </div>
-          </div> -->
+          </div>
+
+        </div>
+
+      <!-- Fourth row -->
+        <div class="bg-gray-100  lg:px-64 px-12 pt-12 lg:inline-flex pb-1">
+          <!-- third project -->
+          <div class="lg:w-1/2 mb-4">  
+          <div class=" bg-white shadow-lg w-full p-4 ">
+            <img src="/svgs/kontagora.png" class="object-contain" alt="">
+            <p class="lg:text-lg text-justify ">The Federal College of Education, Kontagora - Redevelopment of Institution CMS Portal according to TETFUND Specifications.</p>
+            <span class="rounded-full bg-gray-900 px-4 py-1 text-white uppercase"><a href="http://fonegraph.tk">visit&RightArrow;</a></span>
+            <span class="rounded-full bg-red-900 px-4 py-1 text-white uppercase">Work in Progress</span>
+          </div>
+          </div>
+          <!-- second project -->
+          <div class="lg:w-1/2 ml-4 ">
+            <div class=" bg-white shadow-lg w-full p-4 ">
+              <img src="/svgs/translate.png" class="object-contain" alt="">
+              <p class="lg:text-lg text-justify "> GoogleTranslate Wrap around Application Programming Interface (API), for use in Mobile and Web Application Projects </p>
+              <span class="rounded-full bg-gray-900 px-4 py-1 text-white uppercase"><a href="https://langtranslate.herokuapp.com/">visit&RightArrow;</a></span>
+              <span class="rounded-full bg-green-900 px-4 py-1 text-white uppercase">Completed</span>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- FIFTH row -->
+        <div class="bg-gray-100  lg:px-64 px-12 pt-12 lg:inline-flex pb-1">
+          <!-- third project -->
+          <div class="lg:w-1/2 mb-4">  
+          <div class=" bg-white shadow-lg w-full p-4 ">
+            <img src="/svgs/workr.png" class="object-contain" alt="">
+            <p class="lg:text-lg text-justify ">A Gig-as-a-Service Job platform that Connects candidate to hiring Firms In Nigeria, and around the World</p>
+            <span class="rounded-full bg-gray-900 px-4 py-1 text-white uppercase"><a href="http://protected-spire-90181.herokuapp.com/">visit&RightArrow;</a></span>
+            <span class="rounded-full bg-red-900 px-4 py-1 text-white uppercase">Work in Progress</span>
+          </div>
+          </div>
+          <!-- second project -->
+          <div class="lg:w-1/2 ml-4 ">
+            <div class=" bg-white shadow-lg w-full p-4 ">
+              <img src="/svgs/giveaway.png" class="object-contain" alt="">
+              <p class="lg:text-lg text-justify "> A gift-as-as-service platform that connects the needy to those willing to giveout unused Items. </p>
+              <span class="rounded-full bg-gray-900 px-4 py-1 text-white uppercase"><a href="http://unuse.herokuapp.com/">visit&RightArrow;</a></span>
+              <span class="rounded-full bg-red-900 px-4 py-1 text-white uppercase">Work in Progress</span>
+            </div>
+          </div>
 
         </div>
       </main>
