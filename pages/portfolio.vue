@@ -73,7 +73,7 @@
           <div class=" bg-white shadow-lg w-full p-4 ">
             <img src="/svgs/africure.png" class="object-contain" alt="">
             <p class="lg:text-lg text-justify ">Africure - The Curezone for Africa, a platform to discuss Holistic, and Alternative approach to cure terminal diseases</p>
-            <span class="rounded-full bg-gray-900 px-4 py-1 text-white uppercase"><a href="http://evening-plateau-35380.herokuapp.com/" target="_blank">visit&RightArrow;</a></span>
+            <span class="rounded-full bg-gray-900 px-4 py-1 text-white uppercase"><a href="https://africure.com.ng/" target="_blank">visit&RightArrow;</a></span>
             <span class="rounded-full bg-green-900 px-4 py-1 text-white uppercase">Completed</span>
           </div>
           </div>
